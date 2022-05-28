@@ -1,5 +1,4 @@
 # Bowling-simple-coding-test
-# Bowling-simple-coding-test
 
 # Desciption 
 
